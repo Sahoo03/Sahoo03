@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahoo03
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on solving problems.
 - 📫 How to reach me you are just far from doing a mail.
 - Also, as I am new to this I require guidance too.
